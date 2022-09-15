@@ -7,4 +7,5 @@ It gives us the meaning of the emoji present in emoji dictionary.There are some 
 <li>Javascript</li>
 <li>Reactjs</li>
 </ol>
-<h1>Below is the working layout image of the same:</h1><br>
+
+
